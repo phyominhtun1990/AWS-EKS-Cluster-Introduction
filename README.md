@@ -1,4 +1,4 @@
-## AWS-EKS-Cluster-Introduction
+## Amazon EKS Cluster Introduction - Kubernetes on AWS
 ### Demo for creating first kubernetes cluster with Amazon EKS.
 #### For AWS User Group Myanmar Online Meetup (Against COVID19).
 ---
